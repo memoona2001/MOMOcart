@@ -1,8 +1,8 @@
-    **MOMOCART**
+    **MOMOBunk House**
 
 **Hva det er som ble utviklet?**
 
-Mini online butikk (MOMO Cart)
+Mini online butikk (MOMO BunkHouse)
 
 **Innholder:**
 
